@@ -12,7 +12,7 @@
 
 `Leetcode Stats`
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Barathraj22?theme=dark&font=Marcellus)
+![LeetCode Stats](https://leetcard.jacoblin.cool/BarathrajM?theme=dark&font=baloo&ext=heatmap)
 <br>
 `GitHub Stats`
 
