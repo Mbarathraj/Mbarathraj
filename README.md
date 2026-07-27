@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/barathrajm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Mbarathraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Kafka+%7C+Redis+%7C+BullMQ+%7C+Socket.IO;400%2B+DSA+problems+solved;Always+shipping+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Kafka+%7C+Redis+%7C+BullMQ+%7C+Socket.IO;450%2B+DSA+problems+solved;Always+shipping+%F0%9F%9A%80" />
 
 </div>
 
@@ -130,7 +130,6 @@ Next.js + Firebase
 <img src="https://raw.githubusercontent.com/Mbarathraj/Mbarathraj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Animated snake that eats your contribution graph. Needs a one-time GitHub Actions setup — workflow file below.
 
 <br/>
 
